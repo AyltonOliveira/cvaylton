@@ -1,0 +1,31 @@
+.foto{
+  border-radius: 100%;
+  max-width: 200px;
+  border: 1px solid black;
+}
+
+body{
+  background-color: #ede8e8
+}
+
+li >i{
+  margin-right: 10px;
+  color: black
+}
+
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 0; 
+  padding-bottom: 0;
+  color: white;
+}
+
+.html {width: 50%; background-color: #04AA6D;} 
+.css {width: 20%; background-color: #2196F3;} 
